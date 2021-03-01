@@ -1,2 +1,3 @@
 # meals-app-rn
-Meals App built using React Native
+Meals App from Maximilian Schwarzmüller's React Native Course.
+Built for Underscope.
